@@ -17,8 +17,8 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/workspaces/IT2030Fall2023HaydenDeavers/LAB2/HaydenCollectableAndToy/wwwroot/images/HCT LOGO.png",
-      "PackagePath": "staticwebassets/images/HCT LOGO.png"
+      "Id": "/workspaces/IT2030Fall2023HaydenDeavers/LAB2/HaydenCollectableAndToy/wwwroot/images/HCT_LOGO.png",
+      "PackagePath": "staticwebassets/images/HCT_LOGO.png"
     },
     {
       "Id": "/workspaces/IT2030Fall2023HaydenDeavers/LAB2/HaydenCollectableAndToy/wwwroot/js/site.js",

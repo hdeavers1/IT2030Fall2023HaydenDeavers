@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PAgC0UKhw6QtOIJX82F2irzJRNa2zKoO3DFWkpNoTDs=",
+  "Hash": "ngqJ37u2OBSiieF6zAGHSoTg9uSeGDL4oGVjeKUuUEM=",
   "Source": "HaydenCollectableAndToy",
   "BasePath": "_content/HaydenCollectableAndToy",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/workspaces/IT2030Fall2023HaydenDeavers/LAB2/HaydenCollectableAndToy/wwwroot/images/HCT LOGO.png",
+      "Identity": "/workspaces/IT2030Fall2023HaydenDeavers/LAB2/HaydenCollectableAndToy/wwwroot/images/HCT_LOGO.png",
       "SourceId": "HaydenCollectableAndToy",
       "SourceType": "Discovered",
       "ContentRoot": "/workspaces/IT2030Fall2023HaydenDeavers/LAB2/HaydenCollectableAndToy/wwwroot/",
       "BasePath": "_content/HaydenCollectableAndToy",
-      "RelativePath": "images/HCT LOGO.png",
+      "RelativePath": "images/HCT_LOGO.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/HCT LOGO.png"
+      "OriginalItemSpec": "wwwroot/images/HCT_LOGO.png"
     },
     {
       "Identity": "/workspaces/IT2030Fall2023HaydenDeavers/LAB2/HaydenCollectableAndToy/wwwroot/js/site.js",
