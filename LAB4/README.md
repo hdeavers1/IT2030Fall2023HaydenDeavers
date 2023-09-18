@@ -8,5 +8,6 @@ Instructions:
 7.Submit your Week 4 GitHub repo link to Blackboard.
 
 Errors:
-1. I found that I am missing the .dll file for the project that should be in the path "/LAB4/TipCalculator-Wk4/TipCalculator/bin/Debug/net6.0/TipCalculator.dll". I am unsure whether that this is an error on purpose. I am using vscode, i installed the NuGet Package Manager extension. 
-2. When attempting to run the app, there is a missing ";" in TipCalculator.cs on line 16.
+1. When attempting to run the app, there is a missing ";" in TipCalculator.cs on line 16.
+2. HomeController.cs, line 14: "Viewbag" needs to be changed to "ViewBag".
+3. HomeController.cs, line 16: added a returns statement to View();

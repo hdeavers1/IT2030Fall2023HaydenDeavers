@@ -14,6 +14,7 @@ namespace TipCalculator.Models
             {
                 var tip = MealCost.Value / percent;
                 return tip;
+                //There was a missing ;
             }
             else
             {
