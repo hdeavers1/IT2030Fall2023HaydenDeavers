@@ -4,14 +4,15 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/LAB2/HaydenCollectableAndToy/bin/Debug/net7.0/HaydenCollectableAndToy.dll",
+            "program": "${workspaceFolder}/LAB4/TipCalculator-Wk4/TipCalculator/bin/Debug/net6.0/TipCalculator.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/LAB2/HaydenCollectableAndToy",
+            "cwd": "${workspaceFolder}/LAB4/TipCalculator-Wk4/TipCalculator",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",

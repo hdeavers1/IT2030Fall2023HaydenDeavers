@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/LAB2/HaydenCollectableAndToy/HaydenCollectableAndToy.csproj",
+                "${workspaceFolder}/LAB4/TipCalculator-Wk4/5-1_TipCalculator.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/LAB2/HaydenCollectableAndToy/HaydenCollectableAndToy.csproj",
+                "${workspaceFolder}/LAB4/TipCalculator-Wk4/5-1_TipCalculator.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/LAB2/HaydenCollectableAndToy/HaydenCollectableAndToy.csproj"
+                "${workspaceFolder}/LAB4/TipCalculator-Wk4/5-1_TipCalculator.sln"
             ],
             "problemMatcher": "$msCompile"
         }
