@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TBjeKggQfFZL3RfncBXLJcisihtQentdR/bY3QE5g6PWFr5Sxdpm/78kMIJu0rnc3mm+iTclwhsBdLnKMEsdJQ==",
+  "dgSpecHash": "XrdH9ArqGWHRF20Iao1jlY0gAGpFy3xUAzvozcGATjtcmYX4si0bd32r6MnIeAmwsaBUIMD1o4Noewu/9QKTMA==",
   "success": true,
   "projectFilePath": "/workspaces/IT2030Fall2023HaydenDeavers/LAB4/TipCalculator-Wk4/TipCalculator/TipCalculator.csproj",
-  "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.20/microsoft.netcore.app.host.linux-x64.6.0.20.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
